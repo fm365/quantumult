@@ -2,9 +2,7 @@
 
 https://v2ss.github.io/quantumult/
 
-# 购买服务
-- https://lueying.online
-- 掠影科技 [掠影官网](https://lueying.online)
+
 
 
 # 联系我们 Telegram
